@@ -1,8 +1,8 @@
 # Site settings
-title: "Jekyll Boilerplate"
-description: "site description goes here"
+title: "Sholley's Blast Shop"
+description: "Sandblasting, media blasting, custom woodwork, metalwork, and welding"
 
-url: "http://yourdomain.com"
+url: "http://www.sholleysblastshop.com"
 
 # Build settings
 markdown: kramdown
